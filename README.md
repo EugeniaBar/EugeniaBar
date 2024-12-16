@@ -32,6 +32,4 @@ I am a student of data science anda inteligence artificial. With a strong passio
 ![](https://github-contributor-stats.vercel.app/api?username=EugeniaBar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EugeniaBar&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

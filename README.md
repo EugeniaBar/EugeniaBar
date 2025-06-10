@@ -13,8 +13,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Python+Developer,;Computer+Science+Student,;AI+Enthusiast,;Active+Learner/Researcher,;Data+Scientist.."></a>
 </p>
-# About Me:
-"I'm a Data Scientist passionate about Artificial Intelligence. I've honed my skills in Python, databases, statistics, machine learning, and deep learning through various hands-on projects, driven by a strong interest in software and machine learning."
+#About Me:
+I'm a Data Scientist passionate about Artificial Intelligence. I've honed my skills in Python, databases, statistics, machine learning, and deep learning through various hands-on projects, driven by a strong interest in software and machine learning.
 
 
 # 📊 GitHub Stats:
